@@ -1,0 +1,33 @@
+body {
+    max-width:max-content;
+    margin: 0 auto;
+  }
+.title {
+    background-color: burlywood;
+    text-align: center;
+}
+
+.one-line,
+.two-line {
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+.one-line {
+    font-size:30px;
+}
+
+.two-line {
+    font-size: 24px;
+}
+
+.buttons {
+    background: burlywood;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 10px;
+    width:200px;
+    text-align: center;
+}
+div {
+    text-align: center;
+}
